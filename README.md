@@ -11,8 +11,10 @@ This is a simple two-player Rock, Paper, Scissors game made using Dart. Each pla
 
 ## How to Run
 
-1. Open the project folder in the terminal.
-2. Run this command:
+1. Make sure you have the Dart SDK installed.
+2. Open a terminal in this project folder.
+3. Run the game with:
 
-```bash
-dart rock_paper_scissors.dart
+   dart run rock_paper_scissors.dart
+
+4. Follow the prompts to play!
