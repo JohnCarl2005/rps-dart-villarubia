@@ -1,3 +1,6 @@
+// Two-Player Rock, Paper, Scissors game
+// Prompts each player for a choice and determines the winner
+
 import 'dart:io';
 
 final List<String> JCVvalidMoves = ['rock', 'paper', 'scissors'];
